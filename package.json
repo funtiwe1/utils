@@ -1,22 +1,14 @@
 {
-  "name": "utils",
-  "version": "1.0.0",
+  "name": "@funtiwe/utils",
+  "version": "1.0.1",
   "description": "utils for help",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/funtiwe1/utils.git"
-  },
   "keywords": [
     "utils"
   ],
-  "author": "funtik",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/funtiwe1/utils/issues"
-  },
-  "homepage": "https://github.com/funtiwe1/utils#readme"
+  "author": "funtiwe",
+  "license": "ISC"
 }
